@@ -1,7 +1,3 @@
-Claro, aquí tienes un ejemplo de un README en español para tu proyecto:
-
----
-
 # Lógica de Programación en JavaScript
 
 Este repositorio contiene el material y ejercicios del curso **Lógica de Programación en JavaScript** realizado en **Alura Latam** en 2024.
