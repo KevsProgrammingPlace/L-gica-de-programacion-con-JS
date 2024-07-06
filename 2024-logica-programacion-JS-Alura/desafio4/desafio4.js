@@ -58,3 +58,26 @@ if (edadUsuario >= 18 ){
 }else{
     console.log("MENOR DE EDAD ¡ABSTENERSE!")
 }*/
+
+//====================================================================================//
+//EJERCICIO7//
+//Crea una variable "numero" y solicita un valor con prompt.
+// Luego, verifica si es positivo, negativo o cero utilizando un if-else y muestra el mensaje correspondiente.
+
+/*let numero = parseInt(prompt("Ingrese un número:" ));
+
+if (numero >= 0){
+    console.log("NUMERO POSITIVO");
+}else{
+    console.log("NUMERO NEGATIVO");
+}*/
+//====================================================================================//
+
+//EJERCICIO8//
+//Utiliza un bucle while para mostrar los números del 1 al 10 en la consola.
+
+let cont = 0;
+while(cont < 11){
+    console.log("Ejecutando iteracion numero: " + cont);
+    cont ++;
+}
