@@ -76,8 +76,31 @@ if (numero >= 0){
 //EJERCICIO8//
 //Utiliza un bucle while para mostrar los números del 1 al 10 en la consola.
 
-let cont = 0;
+/*let cont = 0;
 while(cont < 11){
     console.log("Ejecutando iteracion numero: " + cont);
     cont ++;
-}
+}*/
+//====================================================================================//
+
+//EJERCICIO9//
+//Crea una variable "nota" y asígnale un valor numérico.
+//Utiliza un if-else para determinar si la nota es mayor o igual a 7 y muestra "Aprobado" o "Reprobado" en la consola.
+
+/*let nota = 4;
+
+if(nota >=7){
+    console.log("Aprobado");
+}else if(nota == 6 ){
+    console.log("Reprobado");
+}else{
+    console.log("Reprobado");
+}*/
+//====================================================================================//
+//EJERCICIO10//
+
+//Utiliza Math.random para generar cualquier número aleatorio y muestra ese número en la consola.
+
+let numeroRandom = Math.floor(Math.random()*10)+1;
+
+console.log(numeroRandom);
