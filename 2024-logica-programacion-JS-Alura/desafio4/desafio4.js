@@ -71,6 +71,7 @@ if (numero >= 0){
 }else{
     console.log("NUMERO NEGATIVO");
 }*/
+
 //====================================================================================//
 
 //EJERCICIO8//
@@ -81,6 +82,7 @@ while(cont < 11){
     console.log("Ejecutando iteracion numero: " + cont);
     cont ++;
 }*/
+
 //====================================================================================//
 
 //EJERCICIO9//
@@ -96,11 +98,26 @@ if(nota >=7){
 }else{
     console.log("Reprobado");
 }*/
+
 //====================================================================================//
 //EJERCICIO10//
-
 //Utiliza Math.random para generar cualquier número aleatorio y muestra ese número en la consola.
 
-let numeroRandom = Math.floor(Math.random()*10)+1;
+//let numeroRandom = Math.floor(Math.random()*10)+1;
 
-console.log(numeroRandom);
+//console.log(numeroRandom);
+
+//====================================================================================//
+//EJERCICIO11//
+//Utiliza Math.random para generar un número entero entre 1 y 10 y muestra ese número en la consola.
+
+//let numeroRandom = Math.floor(Math.random()*10)+1; //Literalmente hice lo mismo que el ejercicio 10 
+
+//console.log(numeroRandom);
+
+//====================================================================================//
+//EJERCICIO12//
+//Utiliza Math.random para generar un número entero entre 1 y 1000 y muestra ese número en la consola.
+
+//const numRandom = Math.floor(Math.random() * 1000) + 1;
+//console.log(randomNumber);
